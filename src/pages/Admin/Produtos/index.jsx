@@ -47,7 +47,7 @@ function Consulta() {
         <h4 className='numb3'>Categoria</h4>
         <h4 className='numb4'>ADM</h4>
         <h4 className='numb5'>Estoque</h4>
-        <h4 className='numb6'>Preço</h4>
+        <h4 className='numb6'>Preços</h4>
         <h4 className='numb7'>Promocional</h4>
       </div>
       <div className='tab-consulta'>
